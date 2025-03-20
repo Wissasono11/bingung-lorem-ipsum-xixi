@@ -1,18 +1,18 @@
-# Sistem Pengembangan Perangkat Lunak
+# 🚀 Sistem Pengembangan Perangkat Lunak
 
-## Deskripsi Proyek
+## 📝 Deskripsi Proyek
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod magna vel risus congue, ac faucibus odio tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec at sapien vel elit consequat bibendum. Fusce eleifend metus ac metus commodo, vel ultrices nisi elementum. Nulla facilisi.
 
-## Fitur Utama
-- **Nullam Euismod**: Phasellus eleifend magna vel risus congue
-- **Vestibulum Ante**: Fusce eleifend metus ac metus commodo
-- **Donec Sapien**: Nulla facilisi donec at sapien vel elit
-- **Faucibus Odio**: Vestibulum ante ipsum primis in faucibus
-- **Consequat Bibendum**: Phasellus eleifend magna vel risus congue
-- **Metus Commodo**: Nullam euismod magna vel risus congue
-- **Ultrices Nisi**: Donec at sapien vel elit consequat bibendum
+## ✨ Fitur Utama
+- **🔄 Nullam Euismod**: Phasellus eleifend magna vel risus congue
+- **🏗️ Vestibulum Ante**: Fusce eleifend metus ac metus commodo
+- **🔍 Donec Sapien**: Nulla facilisi donec at sapien vel elit
+- **⚙️ Faucibus Odio**: Vestibulum ante ipsum primis in faucibus
+- **📊 Consequat Bibendum**: Phasellus eleifend magna vel risus congue
+- **🔧 Metus Commodo**: Nullam euismod magna vel risus congue
+- **📈 Ultrices Nisi**: Donec at sapien vel elit consequat bibendum
 
-## Instalasi
+## 💻 Instalasi
 ```bash
 # Clone repositori
 git clone https://github.com/username/sistem-pengembangan-perangkat-lunak.git
@@ -31,44 +31,44 @@ cp .env.example .env
 npm run dev
 ```
 
-## Penggunaan
+## 🔧 Penggunaan
 Maecenas tincidunt justo vel felis sagittis, vel elementum metus dictum. Sed rhoncus dui vel magna placerat, vel ultricies ex imperdiet. Nullam euismod magna vel risus congue, ac faucibus odio tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.
 
-## Pembagian Tugas Tim
+## 👥 Pembagian Tugas Tim
 
-### Tim Frontend
+### 🎨 Tim Frontend
 | Nama | Posisi | Tanggung Jawab |
 |------|--------|----------------|
-| **Lorem Ipsum** | Tech Lead Frontend | • Pengembangan komponen UI utama<br>• Implementasi state management<br>• Code review UI/UX |
-| **Lorem Ipsum** | UI/UX Designer | • Desain antarmuka pengguna<br>• Prototyping dan user testing<br>• Implementasi animasi dan interaksi |
-| **Lorem Ipsum** | Frontend Developer | • Implementasi halaman dan komponen<br>• Testing dan debugging UI<br>• Optimasi performa frontend |
+| **Lorem Ipsum** | 👨‍💻 Tech Lead Frontend | • 🧩 Pengembangan komponen UI utama<br>• 🔄 Implementasi state management<br>• 👁️ Code review UI/UX |
+| **Lorem Ipsum** | 🎭 UI/UX Designer | • 🖌️ Desain antarmuka pengguna<br>• 🧪 Prototyping dan user testing<br>• ✨ Implementasi animasi dan interaksi |
+| **Lorem Ipsum** | 👨‍💻 Frontend Developer | • 📱 Implementasi halaman dan komponen<br>• 🐞 Testing dan debugging UI<br>• ⚡ Optimasi performa frontend |
 
-### Tim Backend
+### ⚙️ Tim Backend
 | Nama | Posisi | Tanggung Jawab |
 |------|--------|----------------|
-| **Lorem Ipsum** | Tech Lead Backend | • Arsitektur sistem backend<br>• Desain API dan implementasi<br>• Optimasi database |
-| **Lorem Ipsum** | Backend Developer | • Implementasi logika bisnis<br>• Keamanan dan autentikasi<br>• Integrasi layanan pihak ketiga |
-| **Lorem Ipsum** | DevOps Engineer | • Setup infrastruktur cloud<br>• Konfigurasi CI/CD pipeline<br>• Monitoring dan logging sistem |
+| **Lorem Ipsum** | 👩‍💻 Tech Lead Backend | • 🏗️ Arsitektur sistem backend<br>• 🔌 Desain API dan implementasi<br>• 📊 Optimasi database |
+| **Lorem Ipsum** | 👨‍💻 Backend Developer | • 💡 Implementasi logika bisnis<br>• 🔒 Keamanan dan autentikasi<br>• 🔄 Integrasi layanan pihak ketiga |
+| **Lorem Ipsum** | 🛠️ DevOps Engineer | • ☁️ Setup infrastruktur cloud<br>• 🔄 Konfigurasi CI/CD pipeline<br>• 📊 Monitoring dan logging sistem |
 
-### Tim QA
+### 🧪 Tim QA
 | Nama | Posisi | Tanggung Jawab |
 |------|--------|----------------|
-| **Lorem Ipsum** | QA Lead | • Strategi dan perencanaan pengujian<br>• Pengujian manual dan eksploratori<br>• Koordinasi antara pengembangan dan QA |
-| **Lorem Ipsum** | QA Automation Engineer | • Pengembangan pengujian otomatis<br>• Pengujian integrasi<br>• Pengujian performa dan beban |
+| **Lorem Ipsum** | 🕵️‍♀️ QA Lead | • 📝 Strategi dan perencanaan pengujian<br>• 🔍 Pengujian manual dan eksploratori<br>• 🤝 Koordinasi antara pengembangan dan QA |
+| **Lorem Ipsum** | 🤖 QA Automation Engineer | • ⚙️ Pengembangan pengujian otomatis<br>• 🔄 Pengujian integrasi<br>• ⚡ Pengujian performa dan beban |
 
-## Konvensi Pengembangan
+## 📋 Konvensi Pengembangan
 Fusce eleifend metus ac metus commodo, vel ultrices nisi elementum. Nulla facilisi. Maecenas tincidunt justo vel felis sagittis, vel elementum metus dictum. Sed rhoncus dui vel magna placerat, vel ultricies ex imperdiet. Nullam euismod magna vel risus congue, ac faucibus odio tincidunt.
 
-## Roadmap
-- **Q2 2025**: Maecenas tincidunt justo vel felis sagittis
-- **Q3 2025**: Sed rhoncus dui vel magna placerat
-- **Q4 2025**: Vel ultricies ex imperdiet nullam euismod
-- **Q1 2026**: Magna vel risus congue ac faucibus odio
+## 🗓️ Roadmap
+- **Q2 2025** 🌱: Maecenas tincidunt justo vel felis sagittis
+- **Q3 2025** 🌿: Sed rhoncus dui vel magna placerat
+- **Q4 2025** 🌳: Vel ultricies ex imperdiet nullam euismod
+- **Q1 2026** 🌲: Magna vel risus congue ac faucibus odio
 
-## Kontribusi
+## 🤝 Kontribusi
 Donec at sapien vel elit consequat bibendum. Fusce eleifend metus ac metus commodo, vel ultrices nisi elementum. Nulla facilisi. Maecenas tincidunt justo vel felis sagittis, vel elementum metus dictum.
 
-## Lisensi
+## 📜 Lisensi
 Proyek ini dilisensikan di bawah [MIT License](LICENSE):
 
 ```
@@ -95,5 +95,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## Kontak
+## 📞 Kontak
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec at sapien vel elit consequat bibendum.
