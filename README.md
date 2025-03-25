@@ -48,13 +48,7 @@ Maecenas tincidunt justo vel felis sagittis, vel elementum metus dictum. Sed rho
 |------|--------|----------------|
 | **Lorem Ipsum** | 👩‍💻 Tech Lead Backend | • 🏗️ Arsitektur sistem backend<br>• 🔌 Desain API dan implementasi<br>• 📊 Optimasi database |
 | **Lorem Ipsum** | 👨‍💻 Backend Developer | • 💡 Implementasi logika bisnis<br>• 🔒 Keamanan dan autentikasi<br>• 🔄 Integrasi layanan pihak ketiga |
-| **Lorem Ipsum** | 🛠️ DevOps Engineer | • ☁️ Setup infrastruktur cloud<br>• 🔄 Konfigurasi CI/CD pipeline<br>• 📊 Monitoring dan logging sistem |
-
-### 🧪 Tim QA
-| Nama | Posisi | Tanggung Jawab |
-|------|--------|----------------|
-| **Lorem Ipsum** | 🕵️‍♀️ QA Lead | • 📝 Strategi dan perencanaan pengujian<br>• 🔍 Pengujian manual dan eksploratori<br>• 🤝 Koordinasi antara pengembangan dan QA |
-| **Lorem Ipsum** | 🤖 QA Automation Engineer | • ⚙️ Pengembangan pengujian otomatis<br>• 🔄 Pengujian integrasi<br>• ⚡ Pengujian performa dan beban |
+| **Lorem Ipsum** | 🛠️ DevOps/QA Engineer | • ☁️ Setup infrastruktur cloud<br>• 🔄 Konfigurasi CI/CD pipeline<br>• 🧪 Pengujian manual dan otomatis |
 
 ## 📋 Konvensi Pengembangan
 Fusce eleifend metus ac metus commodo, vel ultrices nisi elementum. Nulla facilisi. Maecenas tincidunt justo vel felis sagittis, vel elementum metus dictum. Sed rhoncus dui vel magna placerat, vel ultricies ex imperdiet. Nullam euismod magna vel risus congue, ac faucibus odio tincidunt.
