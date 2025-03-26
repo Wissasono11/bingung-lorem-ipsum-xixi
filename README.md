@@ -4,11 +4,11 @@
 Sistem ini memungkinkan mahasiswa/siswa memesan makanan di kantin melalui website sebelum datang ke kantin, sehingga mereka tidak perlu antre lama. Pemesanan dapat dilakukan berdasarkan menu harian yang disediakan oleh kantin. Selain itu, sistem ini memungkinkan pemilik kantin untuk mendaftarkan usaha mereka dan mengelola menu makanan serta pesanan secara mandiri.
 
 ## 🎯 Apa Tujuan Sistem Dibuat?
-- **✅ Mengurangi antrean di kantin
-- **✅ Memudahkan pengelola kantin dalam mengelola stok makanan
-- **✅ Meningkatkan efisiensi dalam penyajian makanan
-- **✅ Memudahkan pemilik kantin untuk mendaftarkan usaha mereka
-- **✅ Memberikan variasi pilihan kantin kepada pengguna
+- ✅ Mengurangi antrean di kantin
+- ✅ Memudahkan pengelola kantin dalam mengelola stok makanan
+- ✅ Meningkatkan efisiensi dalam penyajian makanan
+- ✅ Memudahkan pemilik kantin untuk mendaftarkan usaha mereka
+- ✅ Memberikan variasi pilihan kantin kepada pengguna
   
 ## ✨ Fitur Utama
 - **🔄 Nullam Euismod**: Phasellus eleifend magna vel risus congue
