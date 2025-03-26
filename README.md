@@ -51,7 +51,7 @@ cp .env.example .env
 npm run dev
 ```
 
-## 🔄 Alur Kerja Sistem
+## 🔄 Bagaimana Alur Dari Sistem Bekerja?
 1️⃣ **Pemilik kantin mendaftar dan login** ke sistem  
 2️⃣ **Pemilik menambahkan informasi kantin** (nama, lokasi, jam operasional)  
 3️⃣ **Pemilik menambahkan menu makanan dan harga**  
