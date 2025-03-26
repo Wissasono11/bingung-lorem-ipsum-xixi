@@ -1,7 +1,9 @@
-# 🏪 Sistem Pemesan Makanan Di Kantin
+# 🍽️ Sistem Pemesanan Makanan di Kantin
 
-## 📝 Deskripsi Singkat Proyek
-Sistem ini memungkinkan mahasiswa/siswa memesan makanan di kantin melalui website sebelum datang ke kantin, sehingga mereka tidak perlu antre lama. Pemesanan dapat dilakukan berdasarkan menu harian yang disediakan oleh kantin. Selain itu, sistem ini memungkinkan pemilik kantin untuk mendaftarkan usaha mereka dan mengelola menu makanan serta pesanan secara mandiri.
+## 📖 Deskripsi Singkat
+Sistem ini memungkinkan mahasiswa/siswa untuk memesan makanan di kantin melalui website sebelum datang ke kantin, sehingga mereka tidak perlu antre lama. Pemesanan dapat dilakukan berdasarkan menu harian yang disediakan oleh kantin. Selain itu, sistem ini memungkinkan pemilik kantin untuk mendaftarkan usaha mereka dan mengelola menu makanan serta pesanan secara mandiri.
+
+---
 
 ## 🎯 Apa Tujuan Sistem Dibuat?
 - ✅ Mengurangi antrean di kantin
@@ -10,14 +12,25 @@ Sistem ini memungkinkan mahasiswa/siswa memesan makanan di kantin melalui websit
 - ✅ Memudahkan pemilik kantin untuk mendaftarkan usaha mereka
 - ✅ Memberikan variasi pilihan kantin kepada pengguna
   
-## ✨ Fitur Utama
-- **🔄 Nullam Euismod**: Phasellus eleifend magna vel risus congue
-- **🏗️ Vestibulum Ante**: Fusce eleifend metus ac metus commodo
-- **🔍 Donec Sapien**: Nulla facilisi donec at sapien vel elit
-- **⚙️ Faucibus Odio**: Vestibulum ante ipsum primis in faucibus
-- **📊 Consequat Bibendum**: Phasellus eleifend magna vel risus congue
-- **🔧 Metus Commodo**: Nullam euismod magna vel risus congue
-- **📈 Ultrices Nisi**: Donec at sapien vel elit consequat bibendum
+## 🔥 Fitur Utama
+
+### 👥 Fitur untuk Pengguna (Mahasiswa/Siswa)
+🔹 **Registrasi & Login** → Pengguna bisa membuat akun untuk memesan makanan  
+🔹 **Melihat Daftar Kantin** → Menampilkan semua kantin yang terdaftar  
+🔹 **Melihat Menu Harian** → Menampilkan daftar makanan dari masing-masing kantin  
+🔹 **Melakukan Pemesanan** → Pengguna bisa memilih makanan dan menentukan waktu pengambilan  
+🔹 **Pembayaran Online/Opsi COD** → Bisa pakai e-wallet, transfer bank, atau bayar di tempat  
+🔹 **Riwayat Pemesanan** → Menampilkan daftar pesanan yang pernah dibuat  
+
+### 🏪 Fitur untuk Pemilik Kantin
+🔹 **Registrasi & Login sebagai Pemilik Kantin** → Pemilik dapat membuat akun untuk mengelola kantinnya  
+🔹 **Mendaftarkan Kantin** → Menambahkan nama kantin, lokasi, jam operasional, dan informasi tambahan  
+🔹 **Mengelola Menu** → Menambahkan, mengedit, dan menghapus menu makanan dan minuman  
+🔹 **Melihat Daftar Pesanan** → Daftar pesanan masuk, beserta statusnya  
+🔹 **Update Status Pesanan** → Misalnya *sedang diproses* atau *siap diambil*  
+🔹 **Laporan Harian/Bulanan** → Melihat jumlah pesanan dan keuntungan  
+
+---
 
 ## 💻 Instalasi
 ```bash
@@ -38,8 +51,18 @@ cp .env.example .env
 npm run dev
 ```
 
-## 🔧 Penggunaan
-Maecenas tincidunt justo vel felis sagittis, vel elementum metus dictum. Sed rhoncus dui vel magna placerat, vel ultricies ex imperdiet. Nullam euismod magna vel risus congue, ac faucibus odio tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.
+## 🔄 Alur Kerja Sistem
+1️⃣ **Pemilik kantin mendaftar dan login** ke sistem  
+2️⃣ **Pemilik menambahkan informasi kantin** (nama, lokasi, jam operasional)  
+3️⃣ **Pemilik menambahkan menu makanan dan harga**  
+4️⃣ **Pengguna login** ke sistem  
+5️⃣ **Pengguna melihat daftar kantin yang tersedia**  
+6️⃣ **Pengguna memilih kantin lalu melihat menu makanan yang ditawarkan**  
+7️⃣ **Pengguna melakukan pemesanan dari kantin tertentu**  
+8️⃣ **Pemilik kantin menerima pesanan dan memperbarui statusnya**  
+9️⃣ **Pengguna datang ke kantin untuk mengambil makanannya tanpa antre lama**  
+
+---
 
 ## 👥 Pembagian Tugas Tim
 
