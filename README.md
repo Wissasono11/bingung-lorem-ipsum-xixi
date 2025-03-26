@@ -1,8 +1,15 @@
-# 🚀 Sistem Pengembangan Perangkat Lunak
+# 🏪 Sistem Pemesan Makanan Di Kantin
 
-## 📝 Deskripsi Proyek
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod magna vel risus congue, ac faucibus odio tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec at sapien vel elit consequat bibendum. Fusce eleifend metus ac metus commodo, vel ultrices nisi elementum. Nulla facilisi.
+## 📝 Deskripsi Singkat Proyek
+Sistem ini memungkinkan mahasiswa/siswa memesan makanan di kantin melalui website sebelum datang ke kantin, sehingga mereka tidak perlu antre lama. Pemesanan dapat dilakukan berdasarkan menu harian yang disediakan oleh kantin. Selain itu, sistem ini memungkinkan pemilik kantin untuk mendaftarkan usaha mereka dan mengelola menu makanan serta pesanan secara mandiri.
 
+## 🎯 Apa Tujuan Sistem Dibuat?
+- **✅ Mengurangi antrean di kantin
+- **✅ Memudahkan pengelola kantin dalam mengelola stok makanan
+- **✅ Meningkatkan efisiensi dalam penyajian makanan
+- **✅ Memudahkan pemilik kantin untuk mendaftarkan usaha mereka
+- **✅ Memberikan variasi pilihan kantin kepada pengguna
+  
 ## ✨ Fitur Utama
 - **🔄 Nullam Euismod**: Phasellus eleifend magna vel risus congue
 - **🏗️ Vestibulum Ante**: Fusce eleifend metus ac metus commodo
@@ -68,7 +75,7 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE):
 ```
 MIT License
 
-Copyright (c) 2025 Sistem Pengembangan Perangkat Lunak Team
+Copyright (c) 2025 Sistem Pemesan Makanan Di Kantin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
