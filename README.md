@@ -35,10 +35,10 @@ Sistem ini memungkinkan mahasiswa/siswa untuk memesan makanan di kantin melalui 
 ## 💻 Instalasi
 ```bash
 # Clone repositori
-git clone https://github.com/username/sistem-pengembangan-perangkat-lunak.git
+git clone https://github.com/username/SUKA-Canteen.git
 
 # Masuk ke direktori proyek
-cd sistem-pengembangan-perangkat-lunak
+cd SUKA-Canteen
 
 # Instal dependensi
 npm install
