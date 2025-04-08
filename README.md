@@ -66,19 +66,11 @@ npm run dev
 
 ## 👥 Pembagian Tugas Tim
 
-### 🎨 Tim Frontend
 | Nama | Posisi | Tanggung Jawab |
 |------|--------|----------------|
-| **Lorem Ipsum** | 👨‍💻 Tech Lead Frontend | • 🧩 Pengembangan komponen UI utama<br>• 🔄 Implementasi state management<br>• 👁️ Code review UI/UX |
-| **Lorem Ipsum** | 🎭 UI/UX Designer | • 🖌️ Desain antarmuka pengguna<br>• 🧪 Prototyping dan user testing<br>• ✨ Implementasi animasi dan interaksi |
-| **Lorem Ipsum** | 👨‍💻 Frontend Developer | • 📱 Implementasi halaman dan komponen<br>• 🐞 Testing dan debugging UI<br>• ⚡ Optimasi performa frontend |
-
-### ⚙️ Tim Backend
-| Nama | Posisi | Tanggung Jawab |
-|------|--------|----------------|
-| **Lorem Ipsum** | 👩‍💻 Tech Lead Backend | • 🏗️ Arsitektur sistem backend<br>• 🔌 Desain API dan implementasi<br>• 📊 Optimasi database |
-| **Lorem Ipsum** | 👨‍💻 Backend Developer | • 💡 Implementasi logika bisnis<br>• 🔒 Keamanan dan autentikasi<br>• 🔄 Integrasi layanan pihak ketiga |
-| **Lorem Ipsum** | 🛠️ DevOps/QA Engineer | • ☁️ Setup infrastruktur cloud<br>• 🔄 Konfigurasi CI/CD pipeline<br>• 🧪 Pengujian manual dan otomatis |
+| Bayu Wicaksono | 📊 Project Manager | • 📝 Perencanaan dan koordinasi proyek<br>• 📅 Manajemen timeline dan deliverables<br>• 👥 Komunikasi dengan stakeholders<br>• 🔍 Monitoring kemajuan proyek |
+| Aisyah Ayudia Inara | 🎨 Frontend Developer | • 🖌️ Desain antarmuka pengguna (UI/UX)<br>• 🧩 Pengembangan komponen UI utama<br>• 📱 Implementasi halaman dan komponen<br>• 🔄 Implementasi state management |
+| Salman Fauzi Asngari | ⚙️ Backend Developer | • 🏗️ Arsitektur sistem backend<br>• 🔌 Desain API dan implementasi<br>• 📊 Optimasi database<br>• 🔒 Keamanan dan autentikasi |
 
 ## 📋 Konvensi Pengembangan
 Fusce eleifend metus ac metus commodo, vel ultrices nisi elementum. Nulla facilisi. Maecenas tincidunt justo vel felis sagittis, vel elementum metus dictum. Sed rhoncus dui vel magna placerat, vel ultricies ex imperdiet. Nullam euismod magna vel risus congue, ac faucibus odio tincidunt.
