@@ -1,4 +1,4 @@
-# 🍽️ Sistem Pemesanan Makanan di Kantin
+# 🍽️ Sistem Pemesanan Makanan di Kantin (SUKA-Canteen)
 
 ## 📖 Deskripsi Singkat
 Sistem ini memungkinkan mahasiswa/siswa untuk memesan makanan di kantin melalui website sebelum datang ke kantin, sehingga mereka tidak perlu antre lama. Pemesanan dapat dilakukan berdasarkan menu harian yang disediakan oleh kantin. Selain itu, sistem ini memungkinkan pemilik kantin untuk mendaftarkan usaha mereka dan mengelola menu makanan serta pesanan secara mandiri.
