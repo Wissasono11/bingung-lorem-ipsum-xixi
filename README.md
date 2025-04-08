@@ -70,7 +70,7 @@ npm run dev
 |------|--------|----------------|
 | Bayu Wicaksono | 📊 Project Manager | • 📝 Perencanaan dan koordinasi proyek<br>• 📅 Manajemen timeline dan deliverables<br>• 👥 Komunikasi dengan stakeholders<br>• 🔍 Monitoring kemajuan proyek |
 | Aisyah Ayudia Inara | 🎨 Frontend Developer | • 🖌️ Desain antarmuka pengguna (UI/UX)<br>• 🧩 Pengembangan komponen UI utama<br>• 📱 Implementasi halaman dan komponen<br>• 🔄 Implementasi state management |
-| Salman Fauzi Asngari | ⚙️ Backend Developer | • 🏗️ Arsitektur sistem backend<br>• 🔌 Desain API dan implementasi<br>• 📊 Optimasi database<br>• 🔒 Keamanan dan autentikasi |
+| Salman Alfauzi Asngari | ⚙️ Backend Developer | • 🏗️ Arsitektur sistem backend<br>• 🔌 Desain API dan implementasi<br>• 📊 Optimasi database<br>• 🔒 Keamanan dan autentikasi |
 
 ## 📋 Konvensi Pengembangan
 Fusce eleifend metus ac metus commodo, vel ultrices nisi elementum. Nulla facilisi. Maecenas tincidunt justo vel felis sagittis, vel elementum metus dictum. Sed rhoncus dui vel magna placerat, vel ultricies ex imperdiet. Nullam euismod magna vel risus congue, ac faucibus odio tincidunt.
