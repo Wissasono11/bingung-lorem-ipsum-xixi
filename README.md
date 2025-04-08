@@ -64,13 +64,14 @@ npm run dev
 
 ---
 
-## 👥 Pembagian Tugas Tim
+## 👥 Tim Pengembang
+Proyek ini dikembangkan oleh tim kecil yang terdiri dari 3 orang. Kami menggunakan pendekatan Extreme Programming (XP) untuk menjaga kolaborasi, kualitas kode, dan kecepatan pengembangan.
 
-| Nama | Posisi | Tanggung Jawab |
-|------|--------|----------------|
-| Bayu Wicaksono | 📊 Project Manager | • 📝 Perencanaan dan koordinasi proyek<br>• 📅 Manajemen timeline dan deliverables<br>• 👥 Komunikasi dengan stakeholders<br>• 🔍 Monitoring kemajuan proyek |
-| Aisyah Ayudia Inara | 🎨 Frontend Developer | • 🖌️ Desain antarmuka pengguna (UI/UX)<br>• 🧩 Pengembangan komponen UI utama<br>• 📱 Implementasi halaman dan komponen<br>• 🔄 Implementasi state management |
-| Salman Alfauzi Asngari | ⚙️ Backend Developer | • 🏗️ Arsitektur sistem backend<br>• 🔌 Desain API dan implementasi<br>• 📊 Optimasi database<br>• 🔒 Keamanan dan autentikasi |
+| Posisi | Anggota Tim | Tanggung Jawab |
+|--------|-------------|----------------|
+| 🎯 **Project Manager / Customer Representative** | Bayu Wicaksono | • Merancang kebutuhan sistem berdasarkan masukan dari pengguna<br>• Menentukan prioritas fitur dan mengatur backlog user stories<br>• Berkomunikasi aktif dengan pihak pengguna untuk validasi hasil<br>• Memfasilitasi planning game dan retrospektif di setiap iterasi<br>• Mengelola timeline dan deliverables proyek<br>• Memantau velocity tim dan melakukan penyesuaian<br>• Membantu dalam pengujian fungsional dan pengumpulan feedback |
+| ⚙️ **Backend Developer** | Salman Alfauzi Asngari | • Membangun sistem backend: autentikasi, manajemen pesanan, dan database<br>• Menerapkan Test-Driven Development (TDD) dan menulis unit test<br>• Mengelola struktur database dan API endpoint untuk frontend<br>• Mendukung integrasi pembayaran digital dan sistem notifikasi<br>• Mengimplementasi sistem keamanan dan otorisasi<br>• Mengoptimasi performa database dan query<br>• Melakukan continuous integration dan deployment |
+| 🎨 **Frontend Developer** | Aisyah Ayudia Inara | • Merancang dan mengembangkan antarmuka pengguna (UI/UX)<br>• Mengintegrasikan UI dengan API backend<br>• Fokus pada pengalaman pengguna untuk kemudahan penggunaan<br>• Melakukan pengujian antarmuka dan optimasi performa frontend<br>• Mengimplementasikan state management untuk aplikasi<br>• Membuat komponen UI yang reusable<br>• Memastikan desain responsif untuk berbagai perangkat |
 
 ## 📋 Konvensi Pengembangan
 Fusce eleifend metus ac metus commodo, vel ultrices nisi elementum. Nulla facilisi. Maecenas tincidunt justo vel felis sagittis, vel elementum metus dictum. Sed rhoncus dui vel magna placerat, vel ultricies ex imperdiet. Nullam euismod magna vel risus congue, ac faucibus odio tincidunt.
