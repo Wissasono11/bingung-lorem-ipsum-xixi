@@ -155,10 +155,10 @@ Berikut adalah rencana pengembangan SUKA-Canteen untuk tahun 2025–2026:
 
 | Periode     | Status        | Fokus Utama                    |
 |-------------|---------------|--------------------------------|
-| Q2 2025     | 🌱 Coming Soon | Pembuatan MVP, prototipe awal |
-| Q3 2025     | 🌿 Coming Soon | Integrasi pembayaran & testing|
-| Q4 2025     | 🌳 Coming Soon | Optimasi performa & feedback  |
-| Q1 2026     | 🌲 Coming Soon | Peluncuran & dokumentasi final|
+| Q1 2025     | 🌱 Coming Soon | Coming Soon |
+| Q2 2025     | 🌿 Coming Soon | Coming Soon |
+| Q3 2025     | 🌳 Coming Soon | Coming Soon |
+| Q4 2025     | 🌲 Coming Soon | Coming Soon |
 
 ---
 
