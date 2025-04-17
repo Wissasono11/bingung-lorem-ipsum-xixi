@@ -151,7 +151,7 @@ Proyek ini dikerjakan oleh tim kecil menggunakan pendekatan **Extreme Programmin
 
 ## 🗓️ Roadmap
 
-Berikut adalah rencana pengembangan SUKA-Canteen untuk tahun 2025–2026:
+Berikut adalah rencana pengembangan SUKA-Canteen untuk tahun 2025:
 
 | Periode     | Status        | Fokus Utama                    |
 |-------------|---------------|--------------------------------|
