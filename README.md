@@ -69,8 +69,6 @@ Teknologi yang digunakan dalam pengembangan proyek ini:
 - **Postman** – Pengujian endpoint API  
 - **Dotenv** – Manajemen konfigurasi lingkungan  
 
-> Catatan: Jika kamu menggunakan teknologi tambahan seperti React, Docker, Prisma, atau Midtrans, jangan ragu untuk menambahkannya ke daftar ini!
-
 ---
 
 ## 💻 Instalasi
