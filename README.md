@@ -1,38 +1,80 @@
 # 🍽️ Sistem Pemesanan Makanan di Kantin (SUKA-Canteen)
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-In%20Development-orange)
+![Made with Node.js](https://img.shields.io/badge/Backend-Node.js-blue)
+![Made with MySQL](https://img.shields.io/badge/Database-MySQL-lightgrey)
+
+---
+
 ## 📖 Deskripsi Singkat
+
 Sistem ini memungkinkan mahasiswa/siswa untuk memesan makanan di kantin melalui website sebelum datang ke kantin, sehingga mereka tidak perlu antre lama. Pemesanan dapat dilakukan berdasarkan menu harian yang disediakan oleh kantin. Selain itu, sistem ini memungkinkan pemilik kantin untuk mendaftarkan usaha mereka dan mengelola menu makanan serta pesanan secara mandiri.
 
 ---
 
 ## 🎯 Apa Tujuan Sistem Dibuat?
-- ✅ Mengurangi antrean di kantin
-- ✅ Memudahkan pengelola kantin dalam mengelola stok makanan
-- ✅ Meningkatkan efisiensi dalam penyajian makanan
-- ✅ Memudahkan pemilik kantin untuk mendaftarkan usaha mereka
-- ✅ Memberikan variasi pilihan kantin kepada pengguna
-  
+
+- ✅ Mengurangi antrean di kantin  
+- ✅ Memudahkan pengelola kantin dalam mengelola stok makanan  
+- ✅ Meningkatkan efisiensi dalam penyajian makanan  
+- ✅ Memudahkan pemilik kantin untuk mendaftarkan usaha mereka  
+- ✅ Memberikan variasi pilihan kantin kepada pengguna  
+
+---
+
 ## 🔥 Fitur Utama
 
-### 👥 Fitur untuk Pengguna (Mahasiswa/Siswa)
-🔹 **Registrasi & Login** → Pengguna bisa membuat akun untuk memesan makanan  
-🔹 **Melihat Daftar Kantin** → Menampilkan semua kantin yang terdaftar  
-🔹 **Melihat Menu Harian** → Menampilkan daftar makanan dari masing-masing kantin  
-🔹 **Melakukan Pemesanan** → Pengguna bisa memilih makanan dan menentukan waktu pengambilan  
-🔹 **Pembayaran Online/Opsi COD** → Bisa pakai e-wallet, transfer bank, atau bayar di tempat  
-🔹 **Riwayat Pemesanan** → Menampilkan daftar pesanan yang pernah dibuat  
+### 👥 Untuk Pengguna (Mahasiswa/Siswa)
 
-### 🏪 Fitur untuk Pemilik Kantin
-🔹 **Registrasi & Login sebagai Pemilik Kantin** → Pemilik dapat membuat akun untuk mengelola kantinnya  
-🔹 **Mendaftarkan Kantin** → Menambahkan nama kantin, lokasi, jam operasional, dan informasi tambahan  
-🔹 **Mengelola Menu** → Menambahkan, mengedit, dan menghapus menu makanan dan minuman  
-🔹 **Melihat Daftar Pesanan** → Daftar pesanan masuk, beserta statusnya  
-🔹 **Update Status Pesanan** → Misalnya *sedang diproses* atau *siap diambil*  
-🔹 **Laporan Harian/Bulanan** → Melihat jumlah pesanan dan keuntungan  
+- 🔹 **Registrasi & Login**  
+- 🔹 **Melihat Daftar Kantin**  
+- 🔹 **Melihat Menu Harian**  
+- 🔹 **Melakukan Pemesanan**  
+- 🔹 **Pembayaran Online / Opsi COD**  
+- 🔹 **Riwayat Pemesanan**  
+
+### 🏪 Untuk Pemilik Kantin
+
+- 🔹 **Registrasi & Login sebagai Pemilik Kantin**  
+- 🔹 **Mendaftarkan Kantin**  
+- 🔹 **Mengelola Menu**  
+- 🔹 **Melihat Daftar Pesanan**  
+- 🔹 **Update Status Pesanan**  
+- 🔹 **Laporan Harian/Bulanan**  
+
+---
+
+## 🧰 Tech Stack
+
+Teknologi yang digunakan dalam pengembangan proyek ini:
+
+### 🌐 Frontend (User Interface)
+
+- **HTML, CSS, JavaScript** – Struktur dasar dan interaktivitas  
+- **Tailwind CSS / Bootstrap** – Desain UI yang modern dan responsif  
+
+### ⚙️ Backend (Server & API)
+
+- **Node.js** – Runtime JavaScript untuk server-side  
+- **Express.js** – Framework backend ringan untuk membangun REST API  
+- **JWT** – Untuk autentikasi dan otorisasi pengguna  
+
+### 🗄️ Database
+
+- **MySQL** – Menyimpan data pengguna, kantin, menu, dan transaksi  
+
+### 🧪 Testing & Tools
+
+- **Postman** – Pengujian endpoint API  
+- **Dotenv** – Manajemen konfigurasi lingkungan  
+
+> Catatan: Jika kamu menggunakan teknologi tambahan seperti React, Docker, Prisma, atau Midtrans, jangan ragu untuk menambahkannya ke daftar ini!
 
 ---
 
 ## 💻 Instalasi
+
 ```bash
 # Clone repositori
 git clone https://github.com/username/SUKA-Canteen.git
@@ -51,42 +93,80 @@ cp .env.example .env
 npm run dev
 ```
 
-## 🔄 Bagaimana Alur Dari Sistem Bekerja?
-1️⃣ **Pemilik kantin mendaftar dan login** ke sistem  
-2️⃣ **Pemilik menambahkan informasi kantin** (nama, lokasi, jam operasional)  
-3️⃣ **Pemilik menambahkan menu makanan dan harga**  
-4️⃣ **Pengguna login** ke sistem  
-5️⃣ **Pengguna melihat daftar kantin yang tersedia**  
-6️⃣ **Pengguna memilih kantin lalu melihat menu makanan yang ditawarkan**  
-7️⃣ **Pengguna melakukan pemesanan dari kantin tertentu**  
-8️⃣ **Pemilik kantin menerima pesanan dan memperbarui statusnya**  
-9️⃣ **Pengguna datang ke kantin untuk mengambil makanannya tanpa antre lama**  
+## 🔄 Bagaimana Alur Sistem Bekerja?
+
+Berikut adalah alur penggunaan sistem SUKA-Canteen dari awal hingga akhir:
+
+1. 🏪 **Pemilik Kantin Mendaftar dan Login**  
+   Pemilik kantin membuat akun untuk mengelola kantin dan menu mereka.
+
+2. 📝 **Menambahkan Informasi Kantin**  
+   Nama, lokasi, jam operasional, dan deskripsi ditambahkan ke sistem.
+
+3. 🍛 **Mengelola Menu Makanan**  
+   Pemilik dapat menambahkan, mengedit, atau menghapus makanan dan minuman yang tersedia.
+
+4. 👥 **Pengguna Login ke Sistem**  
+   Mahasiswa atau siswa melakukan registrasi/login untuk mulai memesan makanan.
+
+5. 🔍 **Melihat Daftar Kantin**  
+   Pengguna dapat melihat semua kantin yang tersedia dan memilih salah satu.
+
+6. 📋 **Melihat Menu Harian**  
+   Pengguna melihat menu yang ditawarkan oleh kantin pilihan mereka.
+
+7. 🛒 **Melakukan Pemesanan**  
+   Pengguna memilih makanan, menentukan waktu pengambilan, dan memilih metode pembayaran (online/COD).
+
+8. 📦 **Pemilik Menerima dan Mengelola Pesanan**  
+   Pemilik memproses pesanan dan memperbarui status (diproses, siap diambil, selesai).
+
+9. 🍽️ **Pengguna Mengambil Pesanan di Kantin**  
+   Pengguna datang ke kantin sesuai waktu pengambilan tanpa harus mengantre.
 
 ---
 
 ## 👥 Tim Pengembang
-Proyek ini dikembangkan oleh tim kecil yang terdiri dari 3 orang. Kami menggunakan pendekatan Extreme Programming (XP) untuk menjaga kolaborasi, kualitas kode, dan kecepatan pengembangan.
 
-| Posisi | Anggota Tim | Tanggung Jawab |
-|--------|-------------|----------------|
-| 🎯 **Project Manager / Customer Representative** | Bayu Wicaksono | • Merancang kebutuhan sistem berdasarkan masukan dari pengguna<br>• Menentukan prioritas fitur dan mengatur backlog user stories<br>• Berkomunikasi aktif dengan pihak pengguna untuk validasi hasil<br>• Membantu dalam pengujian fungsional dan pengumpulan feedback |
-| ⚙️ **Backend Developer** | Salman Alfauzi Asngari | • Membangun sistem backend: autentikasi, manajemen pesanan, dan database<br>• Menerapkan Test-Driven Development (TDD) dan menulis unit test<br>• Mengelola struktur database dan API endpoint untuk frontend<br>• Mendukung integrasi pembayaran digital dan sistem notifikasi |
-| 🎨 **Frontend Developer** | Aisyah Ayudia Inara | • Merancang dan mengembangkan antarmuka pengguna (UI/UX)<br>• Mengintegrasikan UI dengan API backend<br>• Fokus pada pengalaman pengguna untuk kemudahan penggunaan<br>• Melakukan pengujian antarmuka dan optimasi performa frontend |
+Proyek ini dikerjakan oleh tim kecil menggunakan pendekatan **Extreme Programming (XP)** untuk menjaga kolaborasi, kualitas, dan kecepatan pengembangan.
 
-## 📋 Konvensi Pengembangan
-Fusce eleifend metus ac metus commodo, vel ultrices nisi elementum. Nulla facilisi. Maecenas tincidunt justo vel felis sagittis, vel elementum metus dictum. Sed rhoncus dui vel magna placerat, vel ultricies ex imperdiet. Nullam euismod magna vel risus congue, ac faucibus odio tincidunt.
+### 🎯 Project Manager / Customer Representative  
+**Bayu Wicaksono (02)**  
+- Merancang kebutuhan sistem berdasarkan feedback pengguna  
+- Menentukan prioritas fitur dan menyusun backlog  
+- Berkomunikasi dengan pengguna untuk validasi  
+- Terlibat dalam pengujian dan evaluasi fitur  
+
+### ⚙️ Backend Developer  
+**Salman Alfauzi Asngari (13)**  
+- Mengembangkan sistem backend (autentikasi, pesanan, database)  
+- Menggunakan Test-Driven Development (TDD)  
+- Membangun REST API dan integrasi pembayaran  
+
+### 🎨 Frontend Developer  
+**Aisyah Ayudia Inara (20)**  
+- Merancang UI/UX dengan desain yang responsif  
+- Menghubungkan frontend dengan backend melalui API  
+- Melakukan pengujian dan optimasi performa  
+
+---
 
 ## 🗓️ Roadmap
-- **Q2 2025** 🌱: Maecenas tincidunt justo vel felis sagittis
-- **Q3 2025** 🌿: Sed rhoncus dui vel magna placerat
-- **Q4 2025** 🌳: Vel ultricies ex imperdiet nullam euismod
-- **Q1 2026** 🌲: Magna vel risus congue ac faucibus odio
 
-## 🤝 Kontribusi
-Donec at sapien vel elit consequat bibendum. Fusce eleifend metus ac metus commodo, vel ultrices nisi elementum. Nulla facilisi. Maecenas tincidunt justo vel felis sagittis, vel elementum metus dictum.
+Berikut adalah rencana pengembangan SUKA-Canteen untuk tahun 2025–2026:
+
+| Periode     | Status        | Fokus Utama                    |
+|-------------|---------------|--------------------------------|
+| Q2 2025     | 🌱 Coming Soon | Pembuatan MVP, prototipe awal |
+| Q3 2025     | 🌿 Coming Soon | Integrasi pembayaran & testing|
+| Q4 2025     | 🌳 Coming Soon | Optimasi performa & feedback  |
+| Q1 2026     | 🌲 Coming Soon | Peluncuran & dokumentasi final|
+
+---
 
 ## 📜 Lisensi
-Proyek ini dilisensikan di bawah [MIT License](LICENSE):
+
+Proyek ini dilisensikan di bawah lisensi MIT:
 
 ```
 MIT License
@@ -111,6 +191,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
-## 📞 Kontak
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec at sapien vel elit consequat bibendum.
