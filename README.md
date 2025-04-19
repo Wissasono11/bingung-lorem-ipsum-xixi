@@ -15,11 +15,11 @@ Sistem ini memungkinkan mahasiswa/siswa untuk memesan makanan di kantin melalui 
 
 ## 🎯 Apa Tujuan Sistem Dibuat?
 
-- ✅ Mengurangi antrean di kantin  
-- ✅ Memudahkan pengelola kantin dalam mengelola stok makanan  
-- ✅ Meningkatkan efisiensi dalam penyajian makanan  
-- ✅ Memudahkan pemilik kantin untuk mendaftarkan usaha mereka  
-- ✅ Memberikan variasi pilihan kantin kepada pengguna  
+ ✅ Mengurangi antrean di kantin  
+ ✅ Memudahkan pengelola kantin dalam mengelola stok makanan  
+ ✅ Meningkatkan efisiensi dalam penyajian makanan  
+ ✅ Memudahkan pemilik kantin untuk mendaftarkan usaha mereka  
+ ✅ Memberikan variasi pilihan kantin kepada pengguna  
 
 ---
 
@@ -27,21 +27,21 @@ Sistem ini memungkinkan mahasiswa/siswa untuk memesan makanan di kantin melalui 
 
 ### 👥 Untuk Pengguna (Mahasiswa/Siswa)
 
-- 🔹 **Registrasi & Login**  
-- 🔹 **Melihat Daftar Kantin**  
-- 🔹 **Melihat Menu Harian**  
-- 🔹 **Melakukan Pemesanan**  
-- 🔹 **Pembayaran Online / Opsi COD**  
-- 🔹 **Riwayat Pemesanan**  
+🔹 **Registrasi & Login**  
+🔹 **Melihat Daftar Kantin**  
+🔹 **Melihat Menu Harian**  
+🔹 **Melakukan Pemesanan**  
+🔹 **Pembayaran Online / Opsi COD**  
+🔹 **Riwayat Pemesanan**  
 
 ### 🏪 Untuk Pemilik Kantin
 
-- 🔹 **Registrasi & Login sebagai Pemilik Kantin**  
-- 🔹 **Mendaftarkan Kantin**  
-- 🔹 **Mengelola Menu**  
-- 🔹 **Melihat Daftar Pesanan**  
-- 🔹 **Update Status Pesanan**  
-- 🔹 **Laporan Harian/Bulanan**  
+🔹 **Registrasi & Login sebagai Pemilik Kantin**  
+🔹 **Mendaftarkan Kantin**  
+🔹 **Mengelola Menu**  
+🔹 **Melihat Daftar Pesanan**  
+🔹 **Update Status Pesanan**  
+🔹 **Laporan Harian/Bulanan**  
 
 ---
 
