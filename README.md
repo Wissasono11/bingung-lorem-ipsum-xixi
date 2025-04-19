@@ -51,23 +51,23 @@ Teknologi yang digunakan dalam pengembangan proyek ini:
 
 ### 🌐 Frontend (User Interface)
 
-- **HTML, CSS, JavaScript** – Struktur dasar dan interaktivitas  
-- **Tailwind CSS / Bootstrap** – Desain UI yang modern dan responsif  
+🔹**HTML, CSS, JavaScript** – Struktur dasar dan interaktivitas  
+🔹**Tailwind CSS / Bootstrap** – Desain UI yang modern dan responsif  
 
 ### ⚙️ Backend (Server & API)
 
-- **Node.js** – Runtime JavaScript untuk server-side  
-- **Express.js** – Framework backend ringan untuk membangun REST API  
-- **JWT** – Untuk autentikasi dan otorisasi pengguna  
+🔹**Node.js** – Runtime JavaScript untuk server-side  
+🔹**Express.js** – Framework backend ringan untuk membangun REST API  
+🔹**JWT** – Untuk autentikasi dan otorisasi pengguna  
 
 ### 🗄️ Database
 
-- **MySQL** – Menyimpan data pengguna, kantin, menu, dan transaksi  
+🔹**MySQL** – Menyimpan data pengguna, kantin, menu, dan transaksi  
 
 ### 🧪 Testing & Tools
 
-- **Postman** – Pengujian endpoint API  
-- **Dotenv** – Manajemen konfigurasi lingkungan  
+🔹**Postman** – Pengujian endpoint API  
+🔹**Dotenv** – Manajemen konfigurasi lingkungan  
 
 ---
 
@@ -130,22 +130,22 @@ Proyek ini dikerjakan oleh tim kecil menggunakan pendekatan **Extreme Programmin
 
 ### 🎯 Project Manager / Customer Representative  
 **Bayu Wicaksono (02)**  
-- Merancang kebutuhan sistem berdasarkan feedback pengguna  
-- Menentukan prioritas fitur dan menyusun backlog  
-- Berkomunikasi dengan pengguna untuk validasi  
-- Terlibat dalam pengujian dan evaluasi fitur  
+🔹Merancang kebutuhan sistem berdasarkan feedback pengguna  
+🔹Menentukan prioritas fitur dan menyusun backlog  
+🔹Berkomunikasi dengan pengguna untuk validasi  
+🔹Terlibat dalam pengujian dan evaluasi fitur  
 
 ### ⚙️ Backend Developer  
 **Salman Alfauzi Asngari (13)**  
-- Mengembangkan sistem backend (autentikasi, pesanan, database)  
-- Menggunakan Test-Driven Development (TDD)  
-- Membangun REST API dan integrasi pembayaran  
+🔹Mengembangkan sistem backend (autentikasi, pesanan, database)  
+🔹Menggunakan Test-Driven Development (TDD)  
+🔹Membangun REST API dan integrasi pembayaran  
 
 ### 🎨 Frontend Developer  
 **Aisyah Ayudia Inara (20)**  
-- Merancang UI/UX dengan desain yang responsif  
-- Menghubungkan frontend dengan backend melalui API  
-- Melakukan pengujian dan optimasi performa  
+🔹Merancang UI/UX dengan desain yang responsif  
+🔹Menghubungkan frontend dengan backend melalui API  
+🔹Melakukan pengujian dan optimasi performa  
 
 ---
 
