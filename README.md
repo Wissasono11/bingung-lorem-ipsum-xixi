@@ -15,11 +15,11 @@ Sistem ini memungkinkan mahasiswa/siswa untuk memesan makanan di kantin melalui 
 
 ## 🎯 Apa Tujuan Sistem Dibuat?
 
-- ✅ Mengurangi antrean di kantin  
-- ✅ Memudahkan pengelola kantin dalam mengelola stok makanan  
-- ✅ Meningkatkan efisiensi dalam penyajian makanan  
-- ✅ Memudahkan pemilik kantin untuk mendaftarkan usaha mereka  
-- ✅ Memberikan variasi pilihan kantin kepada pengguna  
+ ✅ Mengurangi antrean di kantin  
+ ✅ Memudahkan pengelola kantin dalam mengelola stok makanan  
+ ✅ Meningkatkan efisiensi dalam penyajian makanan  
+ ✅ Memudahkan pemilik kantin untuk mendaftarkan usaha mereka  
+ ✅ Memberikan variasi pilihan kantin kepada pengguna  
 
 ---
 
